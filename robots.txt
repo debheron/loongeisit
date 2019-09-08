@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aimaathoon.lendup.org/sitemap.xml
